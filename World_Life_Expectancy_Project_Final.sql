@@ -3,7 +3,7 @@
 -- Summary of data insights and action steps:
 	-- This data showed that the 300 GDP difference between the High GDP of 1326 vs. the Low GDP of 1612, results in a 10 year difference in the average life expectancy.
 	-- This data shows that normatively, there is a correlation between low BMI and low life expectancy. Area for further investigation is to compare the life expectancy of countries that have high BMI high GDP (which are most prone to obesity, yet have higher quality food) with the countries who have low GDP and low BMI (which are not prone to obesity, but are prone to starvation.)
-	-- For further study, we would want to import data on the total population of each country (which isn't contained in this dataset), so that he can compare that with the adult mortality rate of each year.
+	-- For further study, we would want to import data on the total population of each country (which isn't contained in this dataset), so that we can compare that with the adult mortality rate of each year.
 
 
 -- Data Cleaning
