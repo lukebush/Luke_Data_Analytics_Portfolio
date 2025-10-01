@@ -5,11 +5,4 @@ Dataset & Context:
 Source: World Health Organization / Global Health Observatory (life expectancy and related health/demographic indicators)
 
 Included features:
-  -Country
-  -Year
-  -Life expectancy
-  -Adult mortality rates
-  -GDP
-  -BMI (body mass index)
-  -Schooling levels
-  -Other demographic and health variables
+  Country, Year, Life expectancy, Adult mortality rates, GDP, BMI (body mass index), and Other demographic and health variables.
